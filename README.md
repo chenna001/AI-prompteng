@@ -1,5 +1,21 @@
 # AI Prompt Engineering
 
+git remote set-url origin https://github.com/chenna001/-----RR.git
+
+git remote -v
+(origin  https://github.com/chenna001/-----RR.git (fetch)
+origin  https://github.com/chenna001/-----RR.git (push))
+
+git add .
+
+git commit -m "Add FastAPI and decorators practice"
+
+git pull --rebase origin chenna
+
+git push -u origin chenna
+
+
+
 This repository contains my learning and practice work related to
 AI Prompt Engineering and Generative AI.
 
